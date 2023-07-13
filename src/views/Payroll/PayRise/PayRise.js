@@ -20,7 +20,7 @@ import id from 'date-fns/locale/id';
 
 const moment = require('moment/min/moment-with-locales');
 
-moment.locale('id');
+//moment.locale('id');
 
 var fileDownload = require('js-file-download');
 const minimumDate = new Date(1945, 8, 17);
