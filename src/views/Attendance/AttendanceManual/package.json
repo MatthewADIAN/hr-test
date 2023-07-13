@@ -1,0 +1,7 @@
+{
+    "name": "leave",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./AttendanceManual.js"
+  }
+  

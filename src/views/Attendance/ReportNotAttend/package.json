@@ -1,0 +1,6 @@
+{
+    "name": "report-not-attend",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./ReportNotAttend.js"
+}

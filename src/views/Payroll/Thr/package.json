@@ -1,0 +1,7 @@
+{
+  "name": "Thr",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "main": "./Thr.js"
+}

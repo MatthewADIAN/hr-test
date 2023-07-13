@@ -1,0 +1,24 @@
+.row {
+  margin-bottom: 3px;
+}
+
+.close {
+  margin-top: -29px;
+  padding-right: 10px !important;
+}
+
+.datePickerMonthYearOnly {
+  width: 100%;
+  display: flex;
+  flex: 1 1 0%;
+  border: 1px solid #e4e7ea;
+  font-size: 14;
+  padding: 5px 14px;
+  border-radius: 4px;
+}
+
+.react-datepicker-wrapper {
+  display: flex;
+  padding: 0;
+  border: 0;
+}

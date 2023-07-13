@@ -1,0 +1,6 @@
+{
+    "name": "holiday-nation",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./HolidayNation.js"
+}

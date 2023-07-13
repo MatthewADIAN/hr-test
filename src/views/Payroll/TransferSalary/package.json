@@ -1,0 +1,6 @@
+{
+    "name": "transfer-salary",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./TransferSalary.js"
+}

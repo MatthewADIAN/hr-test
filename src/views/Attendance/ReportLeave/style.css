@@ -1,0 +1,31 @@
+.row {
+    margin-bottom: 3px;
+}
+
+.close {
+    margin-top: -29px;
+    padding-right: 10px!important;
+}
+
+.customDatePickerWidth,
+.customDatePickerWidth > div.react-datepicker-wrapper,
+.customDatePickerWidth > div > div.react-datepicker__input-container
+.customDatePickerWidth > div > div.react-datepicker__input-container input {
+   width: 100%;
+
+}
+
+#tb-data.table-vcenter 
+    td,
+    th {
+        vertical-align: middle;
+    }
+#tb-data.table {
+        overflow: auto;
+        display: block;
+        table-layout: auto;
+        }
+        .table tbody tr:nth-child(4n+1), .table tbody tr:nth-child(4n+2) {
+            background: #fff;
+           }
+

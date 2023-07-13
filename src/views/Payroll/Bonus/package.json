@@ -1,0 +1,7 @@
+{
+  "name": "Bonus",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "main": "./Bonus.js"
+}

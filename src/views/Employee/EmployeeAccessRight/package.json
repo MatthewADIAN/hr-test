@@ -1,0 +1,6 @@
+{
+    "name": "employee-access-right",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./EmployeeAccessRight.js"
+}

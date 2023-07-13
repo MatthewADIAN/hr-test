@@ -1,0 +1,6 @@
+{
+    "name": "employee-class",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./EmployeeClass.js"
+}

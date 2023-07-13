@@ -1,0 +1,24 @@
+.row {
+  margin-bottom: 3px;
+}
+
+.close {
+  margin-top: -29px;
+  padding-right: 10px !important;
+}
+
+.datePickerMonthYearOnly {
+  border: 1px solid #666;
+  font-size: 14;
+  width: 100%;
+  padding: 5px 8px;
+  color: #333;
+  border-radius: 1;
+}
+
+.datePickerMonthYearOnly2 {
+  border: 1px solid #e4e7ea;
+  font-size: 14;
+  padding: 5px 14px;
+  border-radius: 3px;
+}

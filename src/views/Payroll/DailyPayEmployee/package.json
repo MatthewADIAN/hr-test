@@ -1,0 +1,6 @@
+{
+    "name": "daily-pay-employee",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./DailyPayEmployee.js"
+}

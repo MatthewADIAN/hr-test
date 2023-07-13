@@ -1,0 +1,13 @@
+.row {
+    margin-bottom: 3px;
+}
+
+.close {
+    margin-top: -29px;
+    padding-right: 10px!important;
+}
+
+.custom-dialog{
+    width:50% !important;
+    max-width: 100%;
+}

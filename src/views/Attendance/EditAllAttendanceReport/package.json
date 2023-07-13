@@ -1,0 +1,6 @@
+{
+    "name": "attendance-report-edit-all",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./EditAllAttendanceReport.js"
+}

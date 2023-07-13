@@ -1,0 +1,6 @@
+{
+    "name": "standard-pay-rises",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./StandardPayRise.js"
+}

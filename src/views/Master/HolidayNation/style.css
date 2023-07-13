@@ -1,0 +1,12 @@
+.row {
+    margin-bottom: 3px;
+}
+
+.close {
+    margin-top: -29px;
+    padding-right: 10px!important;
+}
+.no-padding{
+    padding-left: 0;
+    padding-right: 0;
+}

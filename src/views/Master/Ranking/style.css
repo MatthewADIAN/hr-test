@@ -1,0 +1,23 @@
+.row {
+  margin-bottom: 3px;
+}
+
+.close {
+  margin-top: -29px;
+  padding-right: 10px!important;
+}
+
+.custom-dialog{
+  width:90% !important;
+  max-width: 100%;
+}
+.datePickerMonthYearOnly{
+  border: 1px solid #666;
+  font-size: 14;
+
+  width: 167px;
+  padding: 5px 8px;
+  color: #333;
+  border-radius: 1;
+}
+

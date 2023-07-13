@@ -1,0 +1,6 @@
+{
+    "name": "report-leave",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./ReportLeave.js"
+}

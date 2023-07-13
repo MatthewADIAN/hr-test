@@ -1,0 +1,6 @@
+{
+    "name": "status-pph",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./StatusPph.js"
+}

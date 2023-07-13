@@ -1,0 +1,27 @@
+.row {
+    margin-bottom: 3px;
+}
+
+.close {
+    margin-top: -29px;
+    padding-right: 10px!important;
+}
+
+.table-vcenter 
+    td,
+    th {
+        vertical-align: middle;
+    }
+.table {
+        overflow: auto;
+        /* display: block; */
+        /* table-layout: auto; */
+        }
+        .table tbody tr:nth-child(4n+1), .table tbody tr:nth-child(4n+2) {
+            background: #fff;
+           }
+.nowarping{
+
+        white-space: nowrap !important;
+    
+}
