@@ -18,18 +18,11 @@ jobs:
     - name: Set up Node.js version
       uses: actions/setup-node@v1
       with:
-        node-version: '12.13.0'
+        node-version: '11.15.0'
 
     - name: npm install, build, and test
       run: |
+        git config --global url."https://github.com".insteadOf git://github.com
         npm install
         npm run build --if-present
         npm run test --if-present
-
-    - name: 'Deploy to Azure Web App'
-      uses: azure/webapps-deploy@v1
-      with:
-        app-name: 'danliris-hr-portal-admin-dev'
-        slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_3b4f812b67304b05975f3d4ac491b734 }}
-        package: ./build
